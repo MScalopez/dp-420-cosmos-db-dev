@@ -20,7 +20,7 @@ If you have not already cloned the lab code repository for **Build copilots with
 
 ## Create an Azure Cosmos DB for NoSQL account
 
-If you already created an Azure Cosmos DB for NoSQL account for the **Build copilots with Azure Cosmos DB** labs on this site, you can use it for this lab and skip ahead to the [next section](#install-the-azure-cosmos-library). Otherwise, view the [Setup Azure Cosmos DB]({% link common/instructions/00-setup-lab-environment.md %}) instructions to create an Azure Cosmos DB for NoSQL account that you will use throughout the lab modules and grant your user identity access to manage data in the account by assigning it to the **Cosmos DB Built-in Data Contributor** role.
+If you already created an Azure Cosmos DB for NoSQL account for the **Build copilots with Azure Cosmos DB** labs on this site, you can use it for this lab and skip ahead to the [next section](#install-the-azure-cosmos-library). Otherwise, view the [Setup Azure Cosmos DB]({% link gen-ai/common/instructions/00-setup-lab-environment.md %}) instructions to create an Azure Cosmos DB for NoSQL account that you will use throughout the lab modules and grant your user identity access to manage data in the account by assigning it to the **Cosmos DB Built-in Data Contributor** role.
 
 ## Install the azure-cosmos library
 
